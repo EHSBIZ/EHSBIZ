@@ -6,7 +6,7 @@
 - 😄 <b><samp>Pronouns: He/Him</samp></b> 
 
 ![Age](https://img.shields.io/badge/age%20-%2019%20-265ebf?style=flat)
-![Location](https://img.shields.io/badge/Location%20-Iran, Mashhad-25a16b?style=flat)
+![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-25a16b?style=flat)
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=EHSBIZ&style=flat&color=7326bf">
   <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/EhsanAmirahmadi?style=flat-square&color=7326bf"> -->
   
