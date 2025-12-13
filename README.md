@@ -2,8 +2,8 @@
 <h5 align='center'><img src='gif.gif'><h5>
 <!-- <h4><b> I'm Ehsan from Iran, and i'm a python developer 🙃 </b></h4> -->
 
-- 🌱 <b><samp>I’m currently Studying CE</samp></b>
-- 😄 <b><samp>Pronouns: He/Him</samp></b> 
+-  <h3><samp>I’m currently Studying CE at FUM</samp></b>
+-  <h3><samp>Pronouns: He/Him</samp></b> 
 
 ![Age](https://img.shields.io/badge/age%20-%2019%20-265ebf?style=flat)
 ![Location](https://img.shields.io/badge/Location%20-Iran,Mashhad-25a16b?style=flat)
@@ -15,13 +15,13 @@
   
 ### Skills and Tools ✔
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,git,bootstrap,html,css,atom,mysql,bash,vscode,visualstudio,figma)](https://skillicons.dev)
-<!-- django-docker-linux-mongodb-vim-postgres-qt-selenium-flask -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,windows)](https://skillicons.dev)
+<!-- django-docker-linux-mongodb-vim-postgres-qt-selenium-flask,bootstrap,html,css,atom,mysql,bash,vscode,visualstudio,figma -->
 
 
 ### <a href='https://zil.ink/ehsanamirahmadi/'>My links and Connectinos</a> 🔗
 
-<a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/🔗_My_Linkes_(_for_My_Links_tap_on_this_)-405BBD?style=style=flat&logo=&logoColor=white)</a>
+<!-- <a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/🔗_My_Linkes_(_for_My_Links_tap_on_this_)-405BBD?style=style=flat&logo=&logoColor=white)</a> -->
 <a href='https://virgool.io/@ehsanamirahmadi1385/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat&logo=&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
   ![Linked In](https://img.shields.io/badge/Linked_In-182E80?style=flat&logo=LinkedIn&logoColor=white)
