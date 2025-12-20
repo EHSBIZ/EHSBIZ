@@ -19,7 +19,7 @@
 <!-- django-docker-linux-mongodb-vim-postgres-qt-selenium-flask,bootstrap,html,css,atom,mysql,bash,vscode,visualstudio,figma -->
 
 
-### <a href='https://zil.ink/ehsanamirahmadi/'>My links and Connectinos</a> 🔗
+### My links and Connectinos 🔗
 
 <!-- <a href='https://zil.ink/ehsanamirahmadi/'>![Web](https://img.shields.io/badge/🔗_My_Linkes_(_for_My_Links_tap_on_this_)-405BBD?style=style=flat&logo=&logoColor=white)</a> -->
 <a href='https://virgool.io/@ehsanamirahmadi1385/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat&logo=&logoColor=white)</a>
