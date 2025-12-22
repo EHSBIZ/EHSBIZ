@@ -15,7 +15,7 @@
   
 ### Skills and Tools ✔
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,windows,github,git)](https://skillicons.dev)
 <!-- django-docker-linux-mongodb-vim-postgres-qt-selenium-flask,bootstrap,html,css,atom,mysql,bash,vscode,visualstudio,figma -->
 
 
