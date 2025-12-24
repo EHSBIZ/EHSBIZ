@@ -13,15 +13,28 @@
 ##
   
 ### Skills and Tools ✔
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,windows,github,git)](https://skillicons.dev)
+
+<!--[![My Skills](https://skillicons.dev/icons?i=cpp,c,vscode,windows,github,git)](https://skillicons.dev)-->
 <!-- django-docker-linux-mongodb-vim-postgres-qt-selenium-flask,bootstrap,html,css,atom,mysql,bash,vscode,visualstudio,figma -->
 
 
 ### My links and Connectinos 🔗
+[![Virgool (Articles)](https://img.shields.io/badge/Virgool_(Articles)-2ECC71?style=flat&logo=medium&logoColor=white)](https://virgool.io/@ehsanamirahmadi1385)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16884635/ehsan)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ehsan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:EhsanAmirahmadi1385@gmail.com)
 
 
-<a href='https://virgool.io/@ehsanamirahmadi1385/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat&logo=&logoColor=white)</a>
+
+<!--<a href='https://virgool.io/@ehsanamirahmadi1385/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat&logo=&logoColor=white)</a>
 <a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
   ![Linkedin](https://img.shields.io/badge/Linked_In-182E80?style=flat&logo=LinkedIn&logoColor=white)
 </a>
@@ -29,9 +42,7 @@
 <a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
   ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat&logo=stackoverflow&logoColor=white)
 </a>
-<a href='https://EhsanAmirahmadi1385@gmail.com/'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat&logo=Gmail&logoColor=white)</a>
-
-<!-- <br> -->
+<a href='https://EhsanAmirahmadi1385@gmail.com/'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat&logo=Gmail&logoColor=white)</a>-->
 
 ## Analysis 📊 
 <!--   [![Ehsan Amirahmadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884635&theme=dark)](https://stackoverflow.com/users/16884635/ehsan-amirahmadi) -->
