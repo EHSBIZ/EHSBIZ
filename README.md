@@ -33,19 +33,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:EhsanAmirahmadi1385@gmail.com)
 
 
-
-<!--<a href='https://virgool.io/@ehsanamirahmadi1385/'>![Articles and Texts](https://img.shields.io/badge/📑_Virgool_(_Articles_and_Texts_)-0D173B?style=flat&logo=&logoColor=white)</a>
-<a href='https://www.linkedin.com/in/ehsan-amirahmadi-a44a35221/'>
-  ![Linkedin](https://img.shields.io/badge/Linked_In-182E80?style=flat&logo=LinkedIn&logoColor=white)
-</a>
-<a href='https://t.me/EHSBIZ/'>![Telegram](https://img.shields.io/badge/Telegram-4C5266?style=flat&logo=Telegram&logoColor=white)</a>
-<a href='https://stackoverflow.com/users/16884635/ehsan-amirahmadi/'>
-  ![stackoverflow](https://img.shields.io/badge/stack_overflow-B85E12?style=flat&logo=stackoverflow&logoColor=white)
-</a>
-<a href='https://EhsanAmirahmadi1385@gmail.com/'>![Gmail](https://img.shields.io/badge/Gmail-B82912?style=flat&logo=Gmail&logoColor=white)</a>-->
-
 ## Analysis 📊 
 <!--   [![Ehsan Amirahmadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884635&theme=dark)](https://stackoverflow.com/users/16884635/ehsan-amirahmadi) -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EHSBIZ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHSBIZ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 <p align="center">
   <img height="141rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
 </p>
