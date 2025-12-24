@@ -36,20 +36,12 @@
 ## Analysis 📊 
 <!--   [![Ehsan Amirahmadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884635&theme=dark)](https://stackoverflow.com/users/16884635/ehsan-amirahmadi) -->
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EHSBIZ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHSBIZ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="141rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
 
 
-<p align="center">
-  <img height="141rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
-</p>
-  
+
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![mac OS](https://img.shields.io/badge/mac_OS-233858?style=flat-square&logo=apple&logoColor=white)
 ![android](https://img.shields.io/badge/android-408C3F?style=flat-square&logo=android&logoColor=white)
