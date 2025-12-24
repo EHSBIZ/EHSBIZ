@@ -34,21 +34,13 @@
 
 
 ## Analysis 📊 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EHSBIZ&show_icons=true&theme=radical&cache_bust=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHSBIZ&layout=compact&theme=vision-glow&cache_bust=2" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=black-ice&cache_bust=3" alt="GitHub Streak" />
-</p>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EHSBIZ&theme=github-compact)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EHSBIZ&theme=onedark&cache_bust=4" alt="Trophies" />
-</p>
 <!--   [![Ehsan Amirahmadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884635&theme=dark)](https://stackoverflow.com/users/16884635/ehsan-amirahmadi) -->
 
-<img height="141rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=black-ice" alt="GitHub Streak" />
-
+<div>
+<img height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> <!-- hide_border=true -->
+<img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=black-ice" alt="GitHub Streak" />
+</div>
 
 
 
