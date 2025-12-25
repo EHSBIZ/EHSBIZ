@@ -39,7 +39,7 @@
 
 <div>
 <img height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EHSBIZ&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> <!-- hide_border=true -->
-<img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=black-ice" alt="GitHub Streak" />
+<!--<img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=EHSBIZ&theme=black-ice" alt="GitHub Streak" />-->
 </div>
 
 
